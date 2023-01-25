@@ -1,0 +1,11 @@
+{
+  "name": "serverapp",
+  "version": "1.0.0",
+  "description": "version test of concept",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nye",
+  "license": "ISC"
+}
